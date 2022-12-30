@@ -1,12 +1,12 @@
 body{
-    background-color: #DAD8D7;
+    background-color: #pink;
 }
 .po {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333333;
+    background-color: #purple;
 }
 .pop {
     float: left;
