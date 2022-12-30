@@ -1,0 +1,13 @@
+div{
+    background-color: black;
+    color: cyan;
+    padding: 40px;
+}
+div:hover{
+    background-color: aqua; color: black;
+    font-size: 20px;
+}
+span{
+    background-color: aliceblue; color: black; padding: 30px;
+    text-align: left;
+}
