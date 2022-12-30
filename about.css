@@ -22,7 +22,7 @@ body{
 
 }
 .pop a:hover {
-    background-color: #111111;
+    background-color: #pink;
 }
 .op{
     margin-top: 15px;
@@ -37,7 +37,7 @@ body{
 }
 footer{
     text-align: center;
-    background-color: #111111;
+    background-color: #pink;
     padding: 13px;
     color: white;
     margin-top: 15%;
